@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.9a43fb1e.css","mappings":"AAAA,MACE,WAEF,KACE,UAEF,OACE","sources":["App.scss"],"sourcesContent":[".blue {\n  color: blue;\n}\n.red {\n  color: red;\n}\n.green {\n  color: green;\n}\n"],"names":[],"sourceRoot":""}
